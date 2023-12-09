@@ -22,5 +22,6 @@
 - 🌱 I’m currently learning: Learning Next.JS
 - 👯 I’m looking to collaborate on: New and Upcoming Technologies
 - 💬 Ask me about: Development Bottlenecks & Solutions
-- 📫 How to reach me: [![Facebook](<img src="/imgs/fb.svg" height="100px" />)](https://www.facebook.com/masudalmahdidev)
+- 📫 How to reach me: https://www.facebook.com/masudalmahdidev
+- 📫 or E-mail: functionnotworkingcorrectly@gmail.com
 - ⚡ More Info: I'm also good at software development with C++ & Python 😊
