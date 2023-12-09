@@ -1,13 +1,15 @@
 
 ![Masud Al Mahdi - Web Developer | React, Nodejs, Tailwind, Mongodb](imgs/cover.svg)
 
+## 📈 Stats-Overview:
+
 <img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
-<p align="center" style="display:flex;gap:2rem;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark"></p>
+<p align="center" style="display:flex"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark"></p>
 <img src="https://api.githubtrends.io/user/svg/masud-almahdi-dev/langs">
 
 ## 📧 Find me at:
 
-[![Facebook](/imgs/fb.svg)](https://www.facebook.com/masudalmahdidev)[![Twitter](/imgs/tw.svg)](https://twitter.com/masudalmahdidev)[![Linkedin](/imgs/lin.svg)](https://www.linkedin.com/in/masudalmahdidev/)
+<p align="center">[![Facebook](/imgs/fb.svg)](https://www.facebook.com/masudalmahdidev)[![Twitter](/imgs/tw.svg)](https://twitter.com/masudalmahdidev)[![Linkedin](/imgs/lin.svg)](https://www.linkedin.com/in/masudalmahdidev/)</p>
 
 ## 🌃 More-About-me:
 - 🔭 I’m currently working on ...
