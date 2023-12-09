@@ -1,3 +1,6 @@
+
+![Masud Al Mahdi - Web Developer | React, Nodejs, Tailwind, Mongodb](imgs/cover.svg)
+
 ### Hi there 👋
 
 <!--
