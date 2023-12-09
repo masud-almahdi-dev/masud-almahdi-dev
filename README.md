@@ -4,11 +4,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark">
 
-<p align="center">
-[<img src="/imgs/fb.svg">](https://www.facebook.com/masudalmahdidev)
-[<img src="/imgs/tw.svg">](https://twitter.com/masudalmahdidev)
-[<img src="/imgs/lin.svg">](https://www.linkedin.com/in/masudalmahdidev/)
-</p>
+
+[<p align="center"> <img src="/imgs/fb.svg">](https://www.facebook.com/masudalmahdidev)[<img src="/imgs/tw.svg">](https://twitter.com/masudalmahdidev)[<img src="/imgs/lin.svg"></p>](https://www.linkedin.com/in/masudalmahdidev/)
+
 <!--
 **masud-almahdi-dev/masud-almahdi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
