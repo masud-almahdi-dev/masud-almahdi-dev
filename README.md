@@ -1,11 +1,25 @@
 
 ![Masud Al Mahdi - Web Developer | React, Nodejs, Tailwind, Mongodb](imgs/cover.svg)
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark">
+<img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark">[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/masud-almahdi-dev/langs)](https://githubtrends.io)
 
-[<p align="center"> <img src="/imgs/fb.svg">](https://www.facebook.com/masudalmahdidev)[<img src="/imgs/tw.svg">](https://twitter.com/masudalmahdidev)[<img src="/imgs/lin.svg"></p>](https://www.linkedin.com/in/masudalmahdidev/)
+## 📧 Find me at:
+
+<div align="center">
+[<img src="/imgs/fb.svg">](https://www.facebook.com/masudalmahdidev)[<img src="/imgs/tw.svg">](https://twitter.com/masudalmahdidev)[<img src="/imgs/lin.svg">](https://www.linkedin.com/in/masudalmahdidev/)
+</div>
+
+## 🌃 More-About-me:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **masud-almahdi-dev/masud-almahdi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
