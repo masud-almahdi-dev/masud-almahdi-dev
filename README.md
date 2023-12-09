@@ -2,8 +2,8 @@
 ![Masud Al Mahdi - Web Developer | React, Nodejs, Tailwind, Mongodb](imgs/cover.svg)
 
 <img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
-<p align="center" style="display:flex;gap:2rem;">[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark)] [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark)]</p>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/masud-almahdi-dev/langs)](https://githubtrends.io)
+<p align="center" style="display:flex;gap:2rem;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark"></p>
+<img src="https://api.githubtrends.io/user/svg/masud-almahdi-dev/langs">
 
 ## 📧 Find me at:
 
