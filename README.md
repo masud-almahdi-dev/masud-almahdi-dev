@@ -5,12 +5,13 @@
 
 <img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
 <p align="center" style="display:flex"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark"></p>
-<img src="https://api.githubtrends.io/user/svg/masud-almahdi-dev/langs">
 
 ## 📧 Find me at:
-
-<p align="center">[![Facebook](/imgs/fb.svg)](https://www.facebook.com/masudalmahdidev)[![Twitter](/imgs/tw.svg)](https://twitter.com/masudalmahdidev)[![Linkedin](/imgs/lin.svg)](https://www.linkedin.com/in/masudalmahdidev/)</p>
-
+<p align="center">
+  <a href="https://www.facebook.com/masudalmahdidev"><img src="/imgs/fb.svg" width="30%" /></a>
+  <a href="https://twitter.com/masudalmahdidev"><img src="/imgs/tw.svg" width="30%" /></a>
+  <a href="https://www.linkedin.com/in/masudalmahdidev/"><img src="/imgs/lin.svg" width="30%" /></a>
+</p>
 ## 🌃 More-About-me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
