@@ -3,8 +3,9 @@
 
 ## 📈 Stats-Overview:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=masud-almahdi-dev&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=masud-almahdi-dev&theme=merko&hide_border=true" alt="GitHub Streak" />
+</p>
 <img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
 <p align="center" style="display:flex">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark" width="48%">
