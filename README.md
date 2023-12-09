@@ -4,7 +4,10 @@
 ## 📈 Stats-Overview:
 
 <img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-almahdi-dev&theme=github_dark">
-<p align="center" style="display:flex"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark"></p>
+<p align="center" style="display:flex">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-almahdi-dev&theme=github_dark" width="48%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masud-almahdi-dev&theme=github_dark" width="48%">
+</p>
 
 ## 📧 Find me at:
 <p align="center">
