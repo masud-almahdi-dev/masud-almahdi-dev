@@ -16,6 +16,24 @@
   <a href="https://www.linkedin.com/in/masudalmahdidev/"><img src="/imgs/lin.svg" width="30%" /></a>
 </p>
 
+## ⚡ Technologies that I Use:
+
+<br>
+<p align="center">
+<img src="/imgs/HTML.png"/>
+<img src="/imgs/css.png"/>
+<img src="/imgs/JavaScript.png"/>
+<img src="/imgs/python.png"/>
+<img src="/imgs/cpp.png"/>
+<img src="/imgs/react.png"/>
+</p>
+<p align="center">
+<img src="/imgs/tailwind.png"/>
+<img src="/imgs/firebase.png"/>
+<img src="/imgs/node.png"/>
+<img src="/imgs/express.png"/>
+<img src="/imgs/mongo.png"/>
+</p><br/>
 
 ## 🌃 More-About-me:
 - 🔭 I’m currently working on: React Firebase Projects
